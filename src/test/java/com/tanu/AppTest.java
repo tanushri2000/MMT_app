@@ -14,7 +14,6 @@ public class AppTest {
      */
     @Test
     public void shouldAnswerWithTrue() {
-      boolean b=false;
         assertTrue(true);
     }
 }
