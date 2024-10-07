@@ -9,6 +9,7 @@ public class App {
         int i=21;
 
        String s="hello";
+       String s1="hi";
 
         System.out.println("Hello World!");
     }
